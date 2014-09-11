@@ -33,4 +33,4 @@ Students should obtain the following books:
 Supplemental YouTube videos and online tutorials will be assigned.
  
 ### Software 
-You will need to install R and Rstudio
+You will need to install [R](http://mirrors.nics.utk.edu/cran/) and [Rstudio](http://www.rstudio.com/).
